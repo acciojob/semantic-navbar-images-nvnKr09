@@ -1,4 +1,9 @@
-.nav-links{
+nav{
+	background:black;
+	padding:5px;
+	color: white;
+}
+	.nav-links{
 	display:flex;
 	list-style:none;
 	justify-content: space-around;
